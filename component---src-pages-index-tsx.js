@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgromov_digital=self.webpackChunkgromov_digital||[]).push([[245],{2783:function(e,l,t){t.r(l);var a=t(6540),n=t(9366),r=t(4647);l.default=()=>a.createElement(a.Fragment,null,a.createElement(r.A,{title:"Ilia Gromov"}),a.createElement(n.A,null,a.createElement("div",null,"Ilia Gromov")))}}]);
+//# sourceMappingURL=component---src-pages-index-tsx.js.map

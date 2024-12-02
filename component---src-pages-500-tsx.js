@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgromov_digital=self.webpackChunkgromov_digital||[]).push([[84],{4210:function(e,r,t){t.r(r);var l=t(6540),a=t(4647),n=t(9366);r.default=e=>l.createElement(l.Fragment,null,l.createElement(a.A,{title:"500: Internal Server Error"}),l.createElement(n.A,null,l.createElement("section",{className:"section"},l.createElement("div",{className:"wrapper"},l.createElement("h1",null,"500 - Internal Server Error")))))}}]);
+//# sourceMappingURL=component---src-pages-500-tsx.js.map
